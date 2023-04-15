@@ -1,4 +1,5 @@
 # KINESICS
+"Communication is not only a flow of words rather a body language."
 
 ## Inspiration
 One of the most important part of communication is hearing what isn't said. Our body language tells a lot about us. Body language and nonverbal communication can reveal a lot about a person's thoughts and feelings. Our genes are wired to interpret basic communication gestures, such as smiling or frowning. However, cultural differences can affect the interpretation of nonverbal cues, making it important to understand these differences.
